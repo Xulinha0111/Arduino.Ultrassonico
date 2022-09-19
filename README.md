@@ -1,2 +1,2 @@
-# Arduino.Ultrassonoro
-Aula F.I - Aduino (Sensor Ultrassonoro + Led's)
+# Arduino.Ultrassonico
+Aula F.I - Aduino (Sensor Ultrasson + Led's)
